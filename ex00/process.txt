@@ -1,0 +1,5 @@
+for this exercise you have to write the following in your command prompt:
+
+echo Z > z
+
+here, echo used to write "Z" in the file named "z"; the sign ">" used for redirect purpose.
